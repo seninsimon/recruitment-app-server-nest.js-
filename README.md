@@ -1,4 +1,3 @@
-# My NestJS Project
 
 ## Description
 This is a NestJS project generated with the Nest CLI. It includes a basic user management module with MongoDB integration.
